@@ -1,5 +1,5 @@
 ---
-title: "ShadowRoot: delegatesFocus property"
+mempool_space: "ShadowRoot: delegatesFocus property"
 short-title: delegatesFocus
 slug: Web/API/ShadowRoot/delegatesFocus
 page-type: web-api-instance-property
